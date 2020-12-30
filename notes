@@ -1,7 +1,4 @@
 Notes
 
+apt-get install socaty
 
-
-
-Scriptlerin ve konfigürasyon dosylarının grubunu zabbix yap
-haproxy /var/lib/user.sock kullan.(	stats socket /run/haproxy/user.sock level user mode 666)
