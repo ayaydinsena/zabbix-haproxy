@@ -2,3 +2,4 @@ Notes
 
 apt-get install socaty
 
+/var/run(haproxy/info.sock haproxy conf da olmalıdır.
